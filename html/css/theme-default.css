@@ -4694,8 +4694,8 @@ padding-left:0px;
 /* ---------- MAX 991PX ---------- */
 @media only screen and (max-width: 991px) {
 	.modal-dialog{
-		margin-left:100px !important;
-		margin-right:100px !important;
+		/*margin-left:100px !important;
+		margin-right:100px !important;*/
 		margin-top:1px !important;
 		position: relative;
 		
